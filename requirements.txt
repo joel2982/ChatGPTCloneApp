@@ -1,0 +1,10 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+altair
+OpenAI
+tiktoken
+streamlit-extras
+pinecone-client
