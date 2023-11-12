@@ -8,3 +8,4 @@ OpenAI
 tiktoken
 streamlit-extras
 pinecone-client
+mysql-connector-python
