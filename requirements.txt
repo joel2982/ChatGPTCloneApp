@@ -1,4 +1,4 @@
-SQLAlchemy8
+SQLAlchemy
 langchain
 PyPDF2
 python-dotenv
