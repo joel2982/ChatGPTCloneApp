@@ -11,3 +11,4 @@ streamlit-extras
 mysql-connector
 mysql-connector-python
 mysqlclient
+pycocotools
