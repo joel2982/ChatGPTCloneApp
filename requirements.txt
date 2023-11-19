@@ -8,7 +8,7 @@ altair
 OpenAI
 tiktoken
 streamlit-extras
-mysql-python
 mysql-connector-python
 mysqlclient
 pycocotools
+mysql-python
